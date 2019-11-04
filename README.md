@@ -5,7 +5,7 @@ Erstellen sie ein Programm (jar), das Dareien per FTP hochlädt.
 Die Parametrisierung erfolgt über die config.json im gleichen Verzeichnis, wie die jar-Datei.
 Die hochzuladenen Dateien liegen im Ordner source.
 Nach dem Upload sollen die Dateien in jeweils in das Backupverzeichnis in einen
- Unterordner/<Kundenummer> verschoben werden.
+ Unterordner/<Kundenummer> verschoben werden.<br>
  Schlägt der Upload fehl, soll dieser bis zu dreimal wiederholen werden.
  Unbekannte Dateien mit der zu suchenden Erweiterung werden wie fehlgeschlagene Uploads behandelt.
  Nach dem dritten Fehlschlag (oder unbekannte Kunde) soll die Dateien in den failed-Ordner
