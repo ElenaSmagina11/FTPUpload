@@ -1,0 +1,518 @@
+Okt 30, 2019 8:27:26 PM de.firma.ElenaSmagina.UploadService startUpload
+INFORMATION: New Upload
+Okt 30, 2019 8:27:26 PM de.firma.ElenaSmagina.UploadService startUpload
+INFORMATION: Client number: 12345
+Okt 30, 2019 8:27:26 PM de.firma.ElenaSmagina.UploadService startUpload
+INFORMATION: User: Test1
+Okt 30, 2019 8:27:26 PM de.firma.ElenaSmagina.UploadService startUpload
+INFORMATION: File name: 12345_Kunde1_0001.zip
+Okt 30, 2019 8:27:26 PM de.firma.ElenaSmagina.UploadService startUpload
+INFORMATION: Dir: 
+Okt 30, 2019 8:27:26 PM de.firma.ElenaSmagina.UploadService startUpload
+INFORMATION: Status: upload was not successful
+Okt 30, 2019 8:27:26 PM de.firma.ElenaSmagina.UploadService startUpload
+INFORMATION: Timestamp: 2019.10.30.20.27.26
+Okt 30, 2019 8:27:26 PM de.firma.ElenaSmagina.UploadService startUpload
+INFORMATION: New Upload
+Okt 30, 2019 8:27:26 PM de.firma.ElenaSmagina.UploadService startUpload
+INFORMATION: Client number: 12345
+Okt 30, 2019 8:27:26 PM de.firma.ElenaSmagina.UploadService startUpload
+INFORMATION: User: Test1
+Okt 30, 2019 8:27:26 PM de.firma.ElenaSmagina.UploadService startUpload
+INFORMATION: File name: 12345_Kunde1_0001.zip
+Okt 30, 2019 8:27:26 PM de.firma.ElenaSmagina.UploadService startUpload
+INFORMATION: Dir: 
+Okt 30, 2019 8:27:26 PM de.firma.ElenaSmagina.UploadService startUpload
+INFORMATION: Status: upload was not successful
+Okt 30, 2019 8:27:26 PM de.firma.ElenaSmagina.UploadService startUpload
+INFORMATION: Timestamp: 2019.10.30.20.27.26
+Okt 30, 2019 8:27:26 PM de.firma.ElenaSmagina.UploadService startUpload
+INFORMATION: New Upload
+Okt 30, 2019 8:27:26 PM de.firma.ElenaSmagina.UploadService startUpload
+INFORMATION: Client number: 12345
+Okt 30, 2019 8:27:26 PM de.firma.ElenaSmagina.UploadService startUpload
+INFORMATION: User: Test1
+Okt 30, 2019 8:27:26 PM de.firma.ElenaSmagina.UploadService startUpload
+INFORMATION: File name: 12345_Kunde1_0001.zip
+Okt 30, 2019 8:27:26 PM de.firma.ElenaSmagina.UploadService startUpload
+INFORMATION: Dir: 
+Okt 30, 2019 8:27:26 PM de.firma.ElenaSmagina.UploadService startUpload
+INFORMATION: Status: upload was not successful
+Okt 30, 2019 8:27:26 PM de.firma.ElenaSmagina.UploadService startUpload
+INFORMATION: Timestamp: 2019.10.30.20.27.26
+Okt 30, 2019 8:27:26 PM de.firma.ElenaSmagina.UploadService startUpload
+INFORMATION: New Upload
+Okt 30, 2019 8:27:26 PM de.firma.ElenaSmagina.UploadService startUpload
+INFORMATION: Client number: 12345
+Okt 30, 2019 8:27:26 PM de.firma.ElenaSmagina.UploadService startUpload
+INFORMATION: User: Test1
+Okt 30, 2019 8:27:26 PM de.firma.ElenaSmagina.UploadService startUpload
+INFORMATION: File name: 12345_Kunde1_0002.zip
+Okt 30, 2019 8:27:26 PM de.firma.ElenaSmagina.UploadService startUpload
+INFORMATION: Dir: 
+Okt 30, 2019 8:27:26 PM de.firma.ElenaSmagina.UploadService startUpload
+INFORMATION: Status: upload was not successful
+Okt 30, 2019 8:27:26 PM de.firma.ElenaSmagina.UploadService startUpload
+INFORMATION: Timestamp: 2019.10.30.20.27.26
+Okt 30, 2019 8:27:26 PM de.firma.ElenaSmagina.UploadService startUpload
+INFORMATION: New Upload
+Okt 30, 2019 8:27:26 PM de.firma.ElenaSmagina.UploadService startUpload
+INFORMATION: Client number: 12345
+Okt 30, 2019 8:27:26 PM de.firma.ElenaSmagina.UploadService startUpload
+INFORMATION: User: Test1
+Okt 30, 2019 8:27:26 PM de.firma.ElenaSmagina.UploadService startUpload
+INFORMATION: File name: 12345_Kunde1_0002.zip
+Okt 30, 2019 8:27:26 PM de.firma.ElenaSmagina.UploadService startUpload
+INFORMATION: Dir: 
+Okt 30, 2019 8:27:26 PM de.firma.ElenaSmagina.UploadService startUpload
+INFORMATION: Status: upload was not successful
+Okt 30, 2019 8:27:26 PM de.firma.ElenaSmagina.UploadService startUpload
+INFORMATION: Timestamp: 2019.10.30.20.27.26
+Okt 30, 2019 8:27:26 PM de.firma.ElenaSmagina.UploadService startUpload
+INFORMATION: New Upload
+Okt 30, 2019 8:27:26 PM de.firma.ElenaSmagina.UploadService startUpload
+INFORMATION: Client number: 12345
+Okt 30, 2019 8:27:26 PM de.firma.ElenaSmagina.UploadService startUpload
+INFORMATION: User: Test1
+Okt 30, 2019 8:27:26 PM de.firma.ElenaSmagina.UploadService startUpload
+INFORMATION: File name: 12345_Kunde1_0002.zip
+Okt 30, 2019 8:27:26 PM de.firma.ElenaSmagina.UploadService startUpload
+INFORMATION: Dir: 
+Okt 30, 2019 8:27:26 PM de.firma.ElenaSmagina.UploadService startUpload
+INFORMATION: Status: upload was not successful
+Okt 30, 2019 8:27:26 PM de.firma.ElenaSmagina.UploadService startUpload
+INFORMATION: Timestamp: 2019.10.30.20.27.26
+Okt 30, 2019 8:27:26 PM de.firma.ElenaSmagina.UploadService startUpload
+INFORMATION: New Upload
+Okt 30, 2019 8:27:26 PM de.firma.ElenaSmagina.UploadService startUpload
+INFORMATION: Client number: 24680
+Okt 30, 2019 8:27:26 PM de.firma.ElenaSmagina.UploadService startUpload
+INFORMATION: User: Test3
+Okt 30, 2019 8:27:26 PM de.firma.ElenaSmagina.UploadService startUpload
+INFORMATION: File name: 24680_Kunde1_0004.zip
+Okt 30, 2019 8:27:26 PM de.firma.ElenaSmagina.UploadService startUpload
+INFORMATION: Dir: firma
+Okt 30, 2019 8:27:26 PM de.firma.ElenaSmagina.UploadService startUpload
+INFORMATION: Status: upload was not successful
+Okt 30, 2019 8:27:26 PM de.firma.ElenaSmagina.UploadService startUpload
+INFORMATION: Timestamp: 2019.10.30.20.27.26
+Okt 30, 2019 8:27:26 PM de.firma.ElenaSmagina.UploadService startUpload
+INFORMATION: New Upload
+Okt 30, 2019 8:27:26 PM de.firma.ElenaSmagina.UploadService startUpload
+INFORMATION: Client number: 24680
+Okt 30, 2019 8:27:26 PM de.firma.ElenaSmagina.UploadService startUpload
+INFORMATION: User: Test3
+Okt 30, 2019 8:27:26 PM de.firma.ElenaSmagina.UploadService startUpload
+INFORMATION: File name: 24680_Kunde1_0004.zip
+Okt 30, 2019 8:27:26 PM de.firma.ElenaSmagina.UploadService startUpload
+INFORMATION: Dir: firma
+Okt 30, 2019 8:27:26 PM de.firma.ElenaSmagina.UploadService startUpload
+INFORMATION: Status: upload was not successful
+Okt 30, 2019 8:27:26 PM de.firma.ElenaSmagina.UploadService startUpload
+INFORMATION: Timestamp: 2019.10.30.20.27.26
+Okt 30, 2019 8:27:26 PM de.firma.ElenaSmagina.UploadService startUpload
+INFORMATION: New Upload
+Okt 30, 2019 8:27:26 PM de.firma.ElenaSmagina.UploadService startUpload
+INFORMATION: Client number: 24680
+Okt 30, 2019 8:27:26 PM de.firma.ElenaSmagina.UploadService startUpload
+INFORMATION: User: Test3
+Okt 30, 2019 8:27:26 PM de.firma.ElenaSmagina.UploadService startUpload
+INFORMATION: File name: 24680_Kunde1_0004.zip
+Okt 30, 2019 8:27:26 PM de.firma.ElenaSmagina.UploadService startUpload
+INFORMATION: Dir: firma
+Okt 30, 2019 8:27:26 PM de.firma.ElenaSmagina.UploadService startUpload
+INFORMATION: Status: upload was not successful
+Okt 30, 2019 8:27:26 PM de.firma.ElenaSmagina.UploadService startUpload
+INFORMATION: Timestamp: 2019.10.30.20.27.26
+Okt 30, 2019 8:27:26 PM de.firma.ElenaSmagina.UploadService startUpload
+INFORMATION: New Upload
+Okt 30, 2019 8:27:26 PM de.firma.ElenaSmagina.UploadService startUpload
+INFORMATION: Client number: 24680
+Okt 30, 2019 8:27:26 PM de.firma.ElenaSmagina.UploadService startUpload
+INFORMATION: User: Test3
+Okt 30, 2019 8:27:26 PM de.firma.ElenaSmagina.UploadService startUpload
+INFORMATION: File name: 24680_Kunde3_0001.zip
+Okt 30, 2019 8:27:26 PM de.firma.ElenaSmagina.UploadService startUpload
+INFORMATION: Dir: firma
+Okt 30, 2019 8:27:26 PM de.firma.ElenaSmagina.UploadService startUpload
+INFORMATION: Status: upload was not successful
+Okt 30, 2019 8:27:26 PM de.firma.ElenaSmagina.UploadService startUpload
+INFORMATION: Timestamp: 2019.10.30.20.27.26
+Okt 30, 2019 8:27:26 PM de.firma.ElenaSmagina.UploadService startUpload
+INFORMATION: New Upload
+Okt 30, 2019 8:27:26 PM de.firma.ElenaSmagina.UploadService startUpload
+INFORMATION: Client number: 24680
+Okt 30, 2019 8:27:26 PM de.firma.ElenaSmagina.UploadService startUpload
+INFORMATION: User: Test3
+Okt 30, 2019 8:27:26 PM de.firma.ElenaSmagina.UploadService startUpload
+INFORMATION: File name: 24680_Kunde3_0001.zip
+Okt 30, 2019 8:27:26 PM de.firma.ElenaSmagina.UploadService startUpload
+INFORMATION: Dir: firma
+Okt 30, 2019 8:27:26 PM de.firma.ElenaSmagina.UploadService startUpload
+INFORMATION: Status: upload was not successful
+Okt 30, 2019 8:27:26 PM de.firma.ElenaSmagina.UploadService startUpload
+INFORMATION: Timestamp: 2019.10.30.20.27.26
+Okt 30, 2019 8:27:26 PM de.firma.ElenaSmagina.UploadService startUpload
+INFORMATION: New Upload
+Okt 30, 2019 8:27:26 PM de.firma.ElenaSmagina.UploadService startUpload
+INFORMATION: Client number: 24680
+Okt 30, 2019 8:27:26 PM de.firma.ElenaSmagina.UploadService startUpload
+INFORMATION: User: Test3
+Okt 30, 2019 8:27:26 PM de.firma.ElenaSmagina.UploadService startUpload
+INFORMATION: File name: 24680_Kunde3_0001.zip
+Okt 30, 2019 8:27:26 PM de.firma.ElenaSmagina.UploadService startUpload
+INFORMATION: Dir: firma
+Okt 30, 2019 8:27:26 PM de.firma.ElenaSmagina.UploadService startUpload
+INFORMATION: Status: upload was not successful
+Okt 30, 2019 8:27:26 PM de.firma.ElenaSmagina.UploadService startUpload
+INFORMATION: Timestamp: 2019.10.30.20.27.26
+Okt 30, 2019 8:27:26 PM de.firma.ElenaSmagina.UploadService startUpload
+INFORMATION: New Upload
+Okt 30, 2019 8:27:26 PM de.firma.ElenaSmagina.UploadService startUpload
+INFORMATION: Client number: 67890
+Okt 30, 2019 8:27:26 PM de.firma.ElenaSmagina.UploadService startUpload
+INFORMATION: User: Test2
+Okt 30, 2019 8:27:26 PM de.firma.ElenaSmagina.UploadService startUpload
+INFORMATION: File name: 67890_Kunde2_0001.zip
+Okt 30, 2019 8:27:26 PM de.firma.ElenaSmagina.UploadService startUpload
+INFORMATION: Dir: kunde1
+Okt 30, 2019 8:27:26 PM de.firma.ElenaSmagina.UploadService startUpload
+INFORMATION: Status: upload was not successful
+Okt 30, 2019 8:27:26 PM de.firma.ElenaSmagina.UploadService startUpload
+INFORMATION: Timestamp: 2019.10.30.20.27.26
+Okt 30, 2019 8:27:26 PM de.firma.ElenaSmagina.UploadService startUpload
+INFORMATION: New Upload
+Okt 30, 2019 8:27:26 PM de.firma.ElenaSmagina.UploadService startUpload
+INFORMATION: Client number: 67890
+Okt 30, 2019 8:27:26 PM de.firma.ElenaSmagina.UploadService startUpload
+INFORMATION: User: Test2
+Okt 30, 2019 8:27:26 PM de.firma.ElenaSmagina.UploadService startUpload
+INFORMATION: File name: 67890_Kunde2_0001.zip
+Okt 30, 2019 8:27:26 PM de.firma.ElenaSmagina.UploadService startUpload
+INFORMATION: Dir: kunde1
+Okt 30, 2019 8:27:26 PM de.firma.ElenaSmagina.UploadService startUpload
+INFORMATION: Status: upload was not successful
+Okt 30, 2019 8:27:26 PM de.firma.ElenaSmagina.UploadService startUpload
+INFORMATION: Timestamp: 2019.10.30.20.27.26
+Okt 30, 2019 8:27:26 PM de.firma.ElenaSmagina.UploadService startUpload
+INFORMATION: New Upload
+Okt 30, 2019 8:27:26 PM de.firma.ElenaSmagina.UploadService startUpload
+INFORMATION: Client number: 67890
+Okt 30, 2019 8:27:26 PM de.firma.ElenaSmagina.UploadService startUpload
+INFORMATION: User: Test2
+Okt 30, 2019 8:27:26 PM de.firma.ElenaSmagina.UploadService startUpload
+INFORMATION: File name: 67890_Kunde2_0001.zip
+Okt 30, 2019 8:27:26 PM de.firma.ElenaSmagina.UploadService startUpload
+INFORMATION: Dir: kunde1
+Okt 30, 2019 8:27:26 PM de.firma.ElenaSmagina.UploadService startUpload
+INFORMATION: Status: upload was not successful
+Okt 30, 2019 8:27:26 PM de.firma.ElenaSmagina.UploadService startUpload
+INFORMATION: Timestamp: 2019.10.30.20.27.26
+Okt 30, 2019 8:34:29 PM de.firma.ElenaSmagina.UploadService startUpload
+INFORMATION: New Upload
+Okt 30, 2019 8:34:29 PM de.firma.ElenaSmagina.UploadService startUpload
+INFORMATION: Client number: 12345
+Okt 30, 2019 8:34:29 PM de.firma.ElenaSmagina.UploadService startUpload
+INFORMATION: User: Test1
+Okt 30, 2019 8:34:29 PM de.firma.ElenaSmagina.UploadService startUpload
+INFORMATION: File name: 12345_Kunde1_0001.zip
+Okt 30, 2019 8:34:29 PM de.firma.ElenaSmagina.UploadService startUpload
+INFORMATION: Dir: 
+Okt 30, 2019 8:34:29 PM de.firma.ElenaSmagina.UploadService startUpload
+INFORMATION: Status: upload was successful
+Okt 30, 2019 8:34:29 PM de.firma.ElenaSmagina.UploadService startUpload
+INFORMATION: Timestamp: 2019.10.30.20.34.29
+Okt 30, 2019 8:34:30 PM de.firma.ElenaSmagina.UploadService startUpload
+INFORMATION: New Upload
+Okt 30, 2019 8:34:30 PM de.firma.ElenaSmagina.UploadService startUpload
+INFORMATION: Client number: 12345
+Okt 30, 2019 8:34:30 PM de.firma.ElenaSmagina.UploadService startUpload
+INFORMATION: User: Test1
+Okt 30, 2019 8:34:30 PM de.firma.ElenaSmagina.UploadService startUpload
+INFORMATION: File name: 12345_Kunde1_0002.zip
+Okt 30, 2019 8:34:30 PM de.firma.ElenaSmagina.UploadService startUpload
+INFORMATION: Dir: 
+Okt 30, 2019 8:34:30 PM de.firma.ElenaSmagina.UploadService startUpload
+INFORMATION: Status: upload was successful
+Okt 30, 2019 8:34:30 PM de.firma.ElenaSmagina.UploadService startUpload
+INFORMATION: Timestamp: 2019.10.30.20.34.30
+Okt 30, 2019 8:34:30 PM de.firma.ElenaSmagina.UploadService startUpload
+INFORMATION: New Upload
+Okt 30, 2019 8:34:30 PM de.firma.ElenaSmagina.UploadService startUpload
+INFORMATION: Client number: 24680
+Okt 30, 2019 8:34:30 PM de.firma.ElenaSmagina.UploadService startUpload
+INFORMATION: User: Test3
+Okt 30, 2019 8:34:30 PM de.firma.ElenaSmagina.UploadService startUpload
+INFORMATION: File name: 24680_Kunde1_0004.zip
+Okt 30, 2019 8:34:30 PM de.firma.ElenaSmagina.UploadService startUpload
+INFORMATION: Dir: firma
+Okt 30, 2019 8:34:30 PM de.firma.ElenaSmagina.UploadService startUpload
+INFORMATION: Status: upload was successful
+Okt 30, 2019 8:34:30 PM de.firma.ElenaSmagina.UploadService startUpload
+INFORMATION: Timestamp: 2019.10.30.20.34.30
+Okt 30, 2019 8:34:31 PM de.firma.ElenaSmagina.UploadService startUpload
+INFORMATION: New Upload
+Okt 30, 2019 8:34:31 PM de.firma.ElenaSmagina.UploadService startUpload
+INFORMATION: Client number: 24680
+Okt 30, 2019 8:34:31 PM de.firma.ElenaSmagina.UploadService startUpload
+INFORMATION: User: Test3
+Okt 30, 2019 8:34:31 PM de.firma.ElenaSmagina.UploadService startUpload
+INFORMATION: File name: 24680_Kunde3_0001.zip
+Okt 30, 2019 8:34:31 PM de.firma.ElenaSmagina.UploadService startUpload
+INFORMATION: Dir: firma
+Okt 30, 2019 8:34:31 PM de.firma.ElenaSmagina.UploadService startUpload
+INFORMATION: Status: upload was successful
+Okt 30, 2019 8:34:31 PM de.firma.ElenaSmagina.UploadService startUpload
+INFORMATION: Timestamp: 2019.10.30.20.34.31
+Okt 30, 2019 8:34:31 PM de.firma.ElenaSmagina.UploadService startUpload
+INFORMATION: New Upload
+Okt 30, 2019 8:34:31 PM de.firma.ElenaSmagina.UploadService startUpload
+INFORMATION: Client number: 67890
+Okt 30, 2019 8:34:31 PM de.firma.ElenaSmagina.UploadService startUpload
+INFORMATION: User: Test2
+Okt 30, 2019 8:34:31 PM de.firma.ElenaSmagina.UploadService startUpload
+INFORMATION: File name: 67890_Kunde2_0001.zip
+Okt 30, 2019 8:34:31 PM de.firma.ElenaSmagina.UploadService startUpload
+INFORMATION: Dir: kunde1
+Okt 30, 2019 8:34:31 PM de.firma.ElenaSmagina.UploadService startUpload
+INFORMATION: Status: upload was not successful
+Okt 30, 2019 8:34:31 PM de.firma.ElenaSmagina.UploadService startUpload
+INFORMATION: Timestamp: 2019.10.30.20.34.31
+Okt 30, 2019 8:34:31 PM de.firma.ElenaSmagina.UploadService startUpload
+INFORMATION: New Upload
+Okt 30, 2019 8:34:31 PM de.firma.ElenaSmagina.UploadService startUpload
+INFORMATION: Client number: 67890
+Okt 30, 2019 8:34:31 PM de.firma.ElenaSmagina.UploadService startUpload
+INFORMATION: User: Test2
+Okt 30, 2019 8:34:31 PM de.firma.ElenaSmagina.UploadService startUpload
+INFORMATION: File name: 67890_Kunde2_0001.zip
+Okt 30, 2019 8:34:31 PM de.firma.ElenaSmagina.UploadService startUpload
+INFORMATION: Dir: kunde1
+Okt 30, 2019 8:34:31 PM de.firma.ElenaSmagina.UploadService startUpload
+INFORMATION: Status: upload was not successful
+Okt 30, 2019 8:34:31 PM de.firma.ElenaSmagina.UploadService startUpload
+INFORMATION: Timestamp: 2019.10.30.20.34.31
+Okt 30, 2019 8:34:31 PM de.firma.ElenaSmagina.UploadService startUpload
+INFORMATION: New Upload
+Okt 30, 2019 8:34:31 PM de.firma.ElenaSmagina.UploadService startUpload
+INFORMATION: Client number: 67890
+Okt 30, 2019 8:34:31 PM de.firma.ElenaSmagina.UploadService startUpload
+INFORMATION: User: Test2
+Okt 30, 2019 8:34:31 PM de.firma.ElenaSmagina.UploadService startUpload
+INFORMATION: File name: 67890_Kunde2_0001.zip
+Okt 30, 2019 8:34:31 PM de.firma.ElenaSmagina.UploadService startUpload
+INFORMATION: Dir: kunde1
+Okt 30, 2019 8:34:31 PM de.firma.ElenaSmagina.UploadService startUpload
+INFORMATION: Status: upload was not successful
+Okt 30, 2019 8:34:31 PM de.firma.ElenaSmagina.UploadService startUpload
+INFORMATION: Timestamp: 2019.10.30.20.34.31
+Okt 30, 2019 8:36:21 PM de.firma.ElenaSmagina.UploadService startUpload
+INFORMATION: New Upload
+Okt 30, 2019 8:36:22 PM de.firma.ElenaSmagina.UploadService startUpload
+INFORMATION: Client number: 12345
+Okt 30, 2019 8:36:22 PM de.firma.ElenaSmagina.UploadService startUpload
+INFORMATION: User: Test1
+Okt 30, 2019 8:36:22 PM de.firma.ElenaSmagina.UploadService startUpload
+INFORMATION: File name: 12345_Kunde1_0001.zip
+Okt 30, 2019 8:36:22 PM de.firma.ElenaSmagina.UploadService startUpload
+INFORMATION: Dir: 
+Okt 30, 2019 8:36:22 PM de.firma.ElenaSmagina.UploadService startUpload
+INFORMATION: Status: upload was not successful
+Okt 30, 2019 8:36:22 PM de.firma.ElenaSmagina.UploadService startUpload
+INFORMATION: Timestamp: 2019.10.30.20.36.22
+Okt 30, 2019 8:36:22 PM de.firma.ElenaSmagina.UploadService startUpload
+INFORMATION: New Upload
+Okt 30, 2019 8:36:22 PM de.firma.ElenaSmagina.UploadService startUpload
+INFORMATION: Client number: 12345
+Okt 30, 2019 8:36:22 PM de.firma.ElenaSmagina.UploadService startUpload
+INFORMATION: User: Test1
+Okt 30, 2019 8:36:22 PM de.firma.ElenaSmagina.UploadService startUpload
+INFORMATION: File name: 12345_Kunde1_0001.zip
+Okt 30, 2019 8:36:22 PM de.firma.ElenaSmagina.UploadService startUpload
+INFORMATION: Dir: 
+Okt 30, 2019 8:36:22 PM de.firma.ElenaSmagina.UploadService startUpload
+INFORMATION: Status: upload was not successful
+Okt 30, 2019 8:36:22 PM de.firma.ElenaSmagina.UploadService startUpload
+INFORMATION: Timestamp: 2019.10.30.20.36.22
+Okt 30, 2019 8:36:22 PM de.firma.ElenaSmagina.UploadService startUpload
+INFORMATION: New Upload
+Okt 30, 2019 8:36:22 PM de.firma.ElenaSmagina.UploadService startUpload
+INFORMATION: Client number: 12345
+Okt 30, 2019 8:36:22 PM de.firma.ElenaSmagina.UploadService startUpload
+INFORMATION: User: Test1
+Okt 30, 2019 8:36:22 PM de.firma.ElenaSmagina.UploadService startUpload
+INFORMATION: File name: 12345_Kunde1_0001.zip
+Okt 30, 2019 8:36:22 PM de.firma.ElenaSmagina.UploadService startUpload
+INFORMATION: Dir: 
+Okt 30, 2019 8:36:22 PM de.firma.ElenaSmagina.UploadService startUpload
+INFORMATION: Status: upload was not successful
+Okt 30, 2019 8:36:22 PM de.firma.ElenaSmagina.UploadService startUpload
+INFORMATION: Timestamp: 2019.10.30.20.36.22
+Okt 30, 2019 8:36:22 PM de.firma.ElenaSmagina.UploadService startUpload
+INFORMATION: New Upload
+Okt 30, 2019 8:36:22 PM de.firma.ElenaSmagina.UploadService startUpload
+INFORMATION: Client number: 12345
+Okt 30, 2019 8:36:22 PM de.firma.ElenaSmagina.UploadService startUpload
+INFORMATION: User: Test1
+Okt 30, 2019 8:36:22 PM de.firma.ElenaSmagina.UploadService startUpload
+INFORMATION: File name: 12345_Kunde1_0002.zip
+Okt 30, 2019 8:36:22 PM de.firma.ElenaSmagina.UploadService startUpload
+INFORMATION: Dir: 
+Okt 30, 2019 8:36:22 PM de.firma.ElenaSmagina.UploadService startUpload
+INFORMATION: Status: upload was not successful
+Okt 30, 2019 8:36:22 PM de.firma.ElenaSmagina.UploadService startUpload
+INFORMATION: Timestamp: 2019.10.30.20.36.22
+Okt 30, 2019 8:36:22 PM de.firma.ElenaSmagina.UploadService startUpload
+INFORMATION: New Upload
+Okt 30, 2019 8:36:22 PM de.firma.ElenaSmagina.UploadService startUpload
+INFORMATION: Client number: 12345
+Okt 30, 2019 8:36:22 PM de.firma.ElenaSmagina.UploadService startUpload
+INFORMATION: User: Test1
+Okt 30, 2019 8:36:22 PM de.firma.ElenaSmagina.UploadService startUpload
+INFORMATION: File name: 12345_Kunde1_0002.zip
+Okt 30, 2019 8:36:22 PM de.firma.ElenaSmagina.UploadService startUpload
+INFORMATION: Dir: 
+Okt 30, 2019 8:36:22 PM de.firma.ElenaSmagina.UploadService startUpload
+INFORMATION: Status: upload was not successful
+Okt 30, 2019 8:36:22 PM de.firma.ElenaSmagina.UploadService startUpload
+INFORMATION: Timestamp: 2019.10.30.20.36.22
+Okt 30, 2019 8:36:22 PM de.firma.ElenaSmagina.UploadService startUpload
+INFORMATION: New Upload
+Okt 30, 2019 8:36:22 PM de.firma.ElenaSmagina.UploadService startUpload
+INFORMATION: Client number: 12345
+Okt 30, 2019 8:36:22 PM de.firma.ElenaSmagina.UploadService startUpload
+INFORMATION: User: Test1
+Okt 30, 2019 8:36:22 PM de.firma.ElenaSmagina.UploadService startUpload
+INFORMATION: File name: 12345_Kunde1_0002.zip
+Okt 30, 2019 8:36:22 PM de.firma.ElenaSmagina.UploadService startUpload
+INFORMATION: Dir: 
+Okt 30, 2019 8:36:22 PM de.firma.ElenaSmagina.UploadService startUpload
+INFORMATION: Status: upload was not successful
+Okt 30, 2019 8:36:22 PM de.firma.ElenaSmagina.UploadService startUpload
+INFORMATION: Timestamp: 2019.10.30.20.36.22
+Okt 30, 2019 8:36:22 PM de.firma.ElenaSmagina.UploadService startUpload
+INFORMATION: New Upload
+Okt 30, 2019 8:36:22 PM de.firma.ElenaSmagina.UploadService startUpload
+INFORMATION: Client number: 24680
+Okt 30, 2019 8:36:22 PM de.firma.ElenaSmagina.UploadService startUpload
+INFORMATION: User: Test3
+Okt 30, 2019 8:36:22 PM de.firma.ElenaSmagina.UploadService startUpload
+INFORMATION: File name: 24680_Kunde1_0004.zip
+Okt 30, 2019 8:36:22 PM de.firma.ElenaSmagina.UploadService startUpload
+INFORMATION: Dir: firma
+Okt 30, 2019 8:36:22 PM de.firma.ElenaSmagina.UploadService startUpload
+INFORMATION: Status: upload was not successful
+Okt 30, 2019 8:36:22 PM de.firma.ElenaSmagina.UploadService startUpload
+INFORMATION: Timestamp: 2019.10.30.20.36.22
+Okt 30, 2019 8:36:22 PM de.firma.ElenaSmagina.UploadService startUpload
+INFORMATION: New Upload
+Okt 30, 2019 8:36:22 PM de.firma.ElenaSmagina.UploadService startUpload
+INFORMATION: Client number: 24680
+Okt 30, 2019 8:36:22 PM de.firma.ElenaSmagina.UploadService startUpload
+INFORMATION: User: Test3
+Okt 30, 2019 8:36:22 PM de.firma.ElenaSmagina.UploadService startUpload
+INFORMATION: File name: 24680_Kunde1_0004.zip
+Okt 30, 2019 8:36:22 PM de.firma.ElenaSmagina.UploadService startUpload
+INFORMATION: Dir: firma
+Okt 30, 2019 8:36:22 PM de.firma.ElenaSmagina.UploadService startUpload
+INFORMATION: Status: upload was not successful
+Okt 30, 2019 8:36:22 PM de.firma.ElenaSmagina.UploadService startUpload
+INFORMATION: Timestamp: 2019.10.30.20.36.22
+Okt 30, 2019 8:36:22 PM de.firma.ElenaSmagina.UploadService startUpload
+INFORMATION: New Upload
+Okt 30, 2019 8:36:22 PM de.firma.ElenaSmagina.UploadService startUpload
+INFORMATION: Client number: 24680
+Okt 30, 2019 8:36:22 PM de.firma.ElenaSmagina.UploadService startUpload
+INFORMATION: User: Test3
+Okt 30, 2019 8:36:22 PM de.firma.ElenaSmagina.UploadService startUpload
+INFORMATION: File name: 24680_Kunde1_0004.zip
+Okt 30, 2019 8:36:22 PM de.firma.ElenaSmagina.UploadService startUpload
+INFORMATION: Dir: firma
+Okt 30, 2019 8:36:22 PM de.firma.ElenaSmagina.UploadService startUpload
+INFORMATION: Status: upload was not successful
+Okt 30, 2019 8:36:22 PM de.firma.ElenaSmagina.UploadService startUpload
+INFORMATION: Timestamp: 2019.10.30.20.36.22
+Okt 30, 2019 8:36:22 PM de.firma.ElenaSmagina.UploadService startUpload
+INFORMATION: New Upload
+Okt 30, 2019 8:36:22 PM de.firma.ElenaSmagina.UploadService startUpload
+INFORMATION: Client number: 24680
+Okt 30, 2019 8:36:22 PM de.firma.ElenaSmagina.UploadService startUpload
+INFORMATION: User: Test3
+Okt 30, 2019 8:36:22 PM de.firma.ElenaSmagina.UploadService startUpload
+INFORMATION: File name: 24680_Kunde3_0001.zip
+Okt 30, 2019 8:36:22 PM de.firma.ElenaSmagina.UploadService startUpload
+INFORMATION: Dir: firma
+Okt 30, 2019 8:36:22 PM de.firma.ElenaSmagina.UploadService startUpload
+INFORMATION: Status: upload was not successful
+Okt 30, 2019 8:36:22 PM de.firma.ElenaSmagina.UploadService startUpload
+INFORMATION: Timestamp: 2019.10.30.20.36.22
+Okt 30, 2019 8:36:22 PM de.firma.ElenaSmagina.UploadService startUpload
+INFORMATION: New Upload
+Okt 30, 2019 8:36:22 PM de.firma.ElenaSmagina.UploadService startUpload
+INFORMATION: Client number: 24680
+Okt 30, 2019 8:36:22 PM de.firma.ElenaSmagina.UploadService startUpload
+INFORMATION: User: Test3
+Okt 30, 2019 8:36:22 PM de.firma.ElenaSmagina.UploadService startUpload
+INFORMATION: File name: 24680_Kunde3_0001.zip
+Okt 30, 2019 8:36:22 PM de.firma.ElenaSmagina.UploadService startUpload
+INFORMATION: Dir: firma
+Okt 30, 2019 8:36:22 PM de.firma.ElenaSmagina.UploadService startUpload
+INFORMATION: Status: upload was not successful
+Okt 30, 2019 8:36:22 PM de.firma.ElenaSmagina.UploadService startUpload
+INFORMATION: Timestamp: 2019.10.30.20.36.22
+Okt 30, 2019 8:36:22 PM de.firma.ElenaSmagina.UploadService startUpload
+INFORMATION: New Upload
+Okt 30, 2019 8:36:22 PM de.firma.ElenaSmagina.UploadService startUpload
+INFORMATION: Client number: 24680
+Okt 30, 2019 8:36:22 PM de.firma.ElenaSmagina.UploadService startUpload
+INFORMATION: User: Test3
+Okt 30, 2019 8:36:22 PM de.firma.ElenaSmagina.UploadService startUpload
+INFORMATION: File name: 24680_Kunde3_0001.zip
+Okt 30, 2019 8:36:22 PM de.firma.ElenaSmagina.UploadService startUpload
+INFORMATION: Dir: firma
+Okt 30, 2019 8:36:22 PM de.firma.ElenaSmagina.UploadService startUpload
+INFORMATION: Status: upload was not successful
+Okt 30, 2019 8:36:22 PM de.firma.ElenaSmagina.UploadService startUpload
+INFORMATION: Timestamp: 2019.10.30.20.36.22
+Okt 30, 2019 8:36:22 PM de.firma.ElenaSmagina.UploadService startUpload
+INFORMATION: New Upload
+Okt 30, 2019 8:36:22 PM de.firma.ElenaSmagina.UploadService startUpload
+INFORMATION: Client number: 67890
+Okt 30, 2019 8:36:22 PM de.firma.ElenaSmagina.UploadService startUpload
+INFORMATION: User: Test2
+Okt 30, 2019 8:36:22 PM de.firma.ElenaSmagina.UploadService startUpload
+INFORMATION: File name: 67890_Kunde2_0001.zip
+Okt 30, 2019 8:36:22 PM de.firma.ElenaSmagina.UploadService startUpload
+INFORMATION: Dir: kunde1
+Okt 30, 2019 8:36:22 PM de.firma.ElenaSmagina.UploadService startUpload
+INFORMATION: Status: upload was not successful
+Okt 30, 2019 8:36:22 PM de.firma.ElenaSmagina.UploadService startUpload
+INFORMATION: Timestamp: 2019.10.30.20.36.22
+Okt 30, 2019 8:36:22 PM de.firma.ElenaSmagina.UploadService startUpload
+INFORMATION: New Upload
+Okt 30, 2019 8:36:22 PM de.firma.ElenaSmagina.UploadService startUpload
+INFORMATION: Client number: 67890
+Okt 30, 2019 8:36:22 PM de.firma.ElenaSmagina.UploadService startUpload
+INFORMATION: User: Test2
+Okt 30, 2019 8:36:22 PM de.firma.ElenaSmagina.UploadService startUpload
+INFORMATION: File name: 67890_Kunde2_0001.zip
+Okt 30, 2019 8:36:22 PM de.firma.ElenaSmagina.UploadService startUpload
+INFORMATION: Dir: kunde1
+Okt 30, 2019 8:36:22 PM de.firma.ElenaSmagina.UploadService startUpload
+INFORMATION: Status: upload was not successful
+Okt 30, 2019 8:36:22 PM de.firma.ElenaSmagina.UploadService startUpload
+INFORMATION: Timestamp: 2019.10.30.20.36.22
+Okt 30, 2019 8:36:22 PM de.firma.ElenaSmagina.UploadService startUpload
+INFORMATION: New Upload
+Okt 30, 2019 8:36:22 PM de.firma.ElenaSmagina.UploadService startUpload
+INFORMATION: Client number: 67890
+Okt 30, 2019 8:36:22 PM de.firma.ElenaSmagina.UploadService startUpload
+INFORMATION: User: Test2
+Okt 30, 2019 8:36:22 PM de.firma.ElenaSmagina.UploadService startUpload
+INFORMATION: File name: 67890_Kunde2_0001.zip
+Okt 30, 2019 8:36:22 PM de.firma.ElenaSmagina.UploadService startUpload
+INFORMATION: Dir: kunde1
+Okt 30, 2019 8:36:22 PM de.firma.ElenaSmagina.UploadService startUpload
+INFORMATION: Status: upload was not successful
+Okt 30, 2019 8:36:22 PM de.firma.ElenaSmagina.UploadService startUpload
+INFORMATION: Timestamp: 2019.10.30.20.36.22

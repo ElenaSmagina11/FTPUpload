@@ -1,0 +1,31 @@
+{
+	"jobname" : "ftpupload",
+	"extention" : ".zip",
+	"logfile" : "/mainfolder/uploadlog.json",
+	"backup" : "/ressources/backup/",
+	"failed" : "/ressources/failed/",
+	"source" : "/ressources/source/",
+	"target" : {
+		"12345" : {
+				"name" : "FTP-Kunde1",
+				"server" : "ftp.carpresenter.de",
+				"user" : "Test1",
+				"pwd" : "meeQu0ce"
+				},
+		"67890" : {
+				"name" : "ServerB",
+				"server" : "ftp.carpresenter.de",
+				"dir" : "kunde1",
+				"user" : "Test2",
+				"pwd" : "aVC6oh5Z"
+				},
+		"24680" : {
+				"name" : "Kunde3",
+				"server" : "ftp.carpresenter.de",
+				"dir" : "firma",
+				"user" : "Test3",
+				"pwd" : "iTaiw4ph"
+				}
+			}
+		}
+				
